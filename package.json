@@ -1,5 +1,5 @@
 {
-  "name": "vueareaselect",
+  "name": "vueareaselect-lgf",
   "description": "a simple province-city-district area select plugin!",
   "version": "1.0.0",
   "author": "LiGaoFenglove <1181197250@qq.com>",
@@ -8,7 +8,7 @@
   "main": "dist/vue-area-select-lei.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LiGaoFenglove/vueareaselect.git"
+    "url": "https://github.com/LiGaoFenglove/vueareaselect-lgf.git"
   },
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
